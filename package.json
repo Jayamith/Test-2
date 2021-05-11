@@ -1,0 +1,22 @@
+{
+  "name": "try-new",
+  "version": "1.0.0",
+  "description": "Name",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@Jayamith"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayamith/Test-2.git"
+  },
+  "author": "Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayamith/Test-2/issues"
+  },
+  "homepage": "https://github.com/Jayamith/Test-2#readme"
+}
